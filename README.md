@@ -1,0 +1,2 @@
+# Los_Super_Once_Version2
+Proyecto de los jugadores de los super once con distintas formaciones (parados de equipo) y posibles cambios de jugadores más adelante para la version 3 tal vez... En esta ocación no se ha podido implementar la función de cambio de jugadores pero, posiblemente quedará en la versión 3, en esta versión (versión 2) se ha implementado nuevas mejoras en las imagenes, colores y sobre todo en las habilidades (tecnicas que los jugadores desempeñan) esto hecho con JQuery... sin más por el momento, suerte.
